@@ -105,6 +105,7 @@ const styles = StyleSheet.create({
   myTitle: {
     fontSize: 20,
     marginVertical: 10,
+    fontWeight: "bold",
   },
   inputContainer: {
     width: 300,
